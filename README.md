@@ -51,7 +51,7 @@ O desenvolvimento deste projeto envolveu o uso das seguintes tecnologias, lingua
 ## 💻 Planejamento do Projeto
 O planejamento do projeto foi estruturado para garantir que o desenvolvimento seja realizado de forma eficiente e dentro dos prazos estabelecidos. Abaixo, apresentamos o cronograma detalhado, incluindo as Sprints, seus objetivos e marcos importantes.
 
-## Cronograma do Projeto
+## ⏱️ Cronograma do Projeto
 O projeto será conduzido utilizando a metodologia Scrum, permitindo entregas incrementais e uma melhor organização através das Sprints. Nas Sprints 2 e 3, as operações ainda serão definidas pelo cliente, garantindo que o produto final atenda às necessidades e expectativas. A cada Sprint, será realizada uma revisão do progresso, possibilitando ajustes necessários e mantendo a flexibilidade ao longo do desenvolvimento.
 
 ### Sprint 1
