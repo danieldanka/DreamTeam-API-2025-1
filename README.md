@@ -1,9 +1,6 @@
 # Desenvolvimento de Aplicação de Cálculo de Sequências Lógicas
 
-
-![Banner-API (1)](https://github.com/user-attachments/assets/03e41dd7-b5e2-4f19-9457-f6119e1b9168)
-
-
+![Banner-API (1)](https://github.com/user-attachments/assets/0b159282-f3c1-4070-a7d0-65187917c522)
 
 ## 📚 Descrição do Projeto
 
