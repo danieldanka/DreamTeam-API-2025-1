@@ -1,6 +1,10 @@
 # Desenvolvimento de Aplicação de Cálculo de Sequências Lógicas
 
 
+![Banner-API (1)](https://github.com/user-attachments/assets/03e41dd7-b5e2-4f19-9457-f6119e1b9168)
+
+
+
 ## 📚 Descrição do Projeto
 
 O objetivo deste projeto é desenvolver uma aplicação interativa que permita aos usuários calcular diversas sequências lógicas de maneira simples e intuitiva. A ideia é criar uma ferramenta que não apenas atenda às necessidades de cálculo, mas também proporcione uma experiência acessível, promovendo o aprendizado de conceitos matemáticos. A interface do programa será desenhada com foco na usabilidade, garantindo que usuários de diferentes níveis de conhecimento possam utilizar a aplicação sem dificuldades.
