@@ -1,4 +1,4 @@
-# Desenvolvimento de Aplicação de Cálculo de Sequências Lógicas
+# Aplicação de Cálculo de Sequências Lógicas
 
 ![Banner-API (1)](https://github.com/user-attachments/assets/0b159282-f3c1-4070-a7d0-65187917c522)
 
@@ -22,34 +22,6 @@ Ao final do desenvolvimento, o projeto espera proporcionar uma ferramenta funcio
 
 A proposta do software é tornar o aprendizado matemático mais acessível e atrativo, estimulando a curiosidade e o interesse por meio de uma plataforma interativa, que contribua não apenas para a resolução de problemas práticos, mas também para o desenvolvimento de habilidades cognitivas e o incentivo à exploração de novos tópicos da matemática.
 
-## 👥 Integrantes da Equipe
-
-
-
-| Foto | Nome | Função | Github |
-| :---------: | :---------: | :---------------------: | :-----------------: |
-| <img src="https://github.com/saracostacarreira.png?size=50" width=50px> | Sara Alves | Scrum Master | <a href="https://github.com/saracostacarreira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
-| <img src="https://github.com/MrMatheTrue.png?size=50" width=50px> | Matheus de Paula | Product Owner | <a href="https://github.com/MrMatheTrue"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-| <img src="https://github.com/danieldanka.png?size=50" width=50px> | Daniel Natan | Desenvolvedor | <a href="https://github.com/danieldanka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-| <img src="https://github.com/joaosantos13.png?size=50" width=50px> | João Santos | Desenvolvedor | <a href="https://github.com/joaosantos13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|
-| <img src="https://github.com/LeonardoGracianoOliveira.png?size=50" width=50px> | Leonardo Graciano | Desenvolvedor | <a href="https://github.com/LeonardoGracianoOliveira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-| <img src="https://github.com/GlitchRez.png?size=50" width=50px> | Samuel rezende | Desenvolvedor | <a href="https://github.com/GlitchRez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-| <img src="https://github.com/brendabettini.png?size=50" width=50px> | Brenda Bettini | Desenvolvedor | <a href="https://github.com/brendabettini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-| <img src="https://github.com/ana-franca-01.png?size=50" width=50px> | Ana Letícia | Desenvolvedor | <a href="https://github.com/ana-franca-01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
-
-## ⚙️ Tecnologias Utilizadas
-O desenvolvimento deste projeto envolveu o uso das seguintes tecnologias, linguagens e ferramentas:
-
-+ **Linguagem de Programação:** Portugol
-+ **IDE:** Visual G
-+ **Ferramenta de Gestão de Projetos:** Trello
-+ **Metodologia Ágil:** Scrum
-
-## 💻 Planejamento do Projeto
-O planejamento do projeto foi estruturado para garantir que o desenvolvimento seja realizado de forma eficiente e dentro dos prazos estabelecidos. Abaixo, apresentamos o cronograma detalhado, incluindo as Sprints, seus objetivos e marcos importantes.
-
-## ⏱️ Cronograma do Projeto
-O projeto será conduzido utilizando a metodologia Scrum, permitindo entregas incrementais e uma melhor organização através das Sprints. Nas Sprints 2 e 3, as operações ainda serão definidas pelo cliente, garantindo que o produto final atenda às necessidades e expectativas. A cada Sprint, será realizada uma revisão do progresso, possibilitando ajustes necessários e mantendo a flexibilidade ao longo do desenvolvimento.
 
 ### Sprint 1
 - Duração: 20 dias
@@ -74,3 +46,29 @@ O projeto será conduzido utilizando a metodologia Scrum, permitindo entregas in
 - Objetivos da Sprint:
   - Finalizar o desenvolvimento das operações no menu interativo.
   - Implementar as operações a serem definidas pelo cliente.
+
+ ## ⏱️ Cronograma do Projeto
+O projeto será conduzido utilizando a metodologia Scrum, permitindo entregas incrementais e uma melhor organização através das Sprints. Nas Sprints 2 e 3, as operações ainda serão definidas pelo cliente, garantindo que o produto final atenda às necessidades e expectativas. A cada Sprint, será realizada uma revisão do progresso, possibilitando ajustes necessários e mantendo a flexibilidade ao longo do desenvolvimento.
+
+## ⚙️ Tecnologias Utilizadas
+O desenvolvimento deste projeto envolveu o uso das seguintes tecnologias, linguagens e ferramentas:
+
++ **Linguagem de Programação:** Portugol
++ **IDE:** Visual G
++ **Ferramenta de Gestão de Projetos:** Trello
++ **Metodologia Ágil:** Scrum
+
+  ## 👥 Integrantes da Equipe
+
+
+| Foto | Nome | Função | Github |
+| :---------: | :---------: | :---------------------: | :-----------------: |
+| <img src="https://github.com/saracostacarreira.png?size=50" width=50px> | Sara Alves | Scrum Master | <a href="https://github.com/saracostacarreira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |
+| <img src="https://github.com/MrMatheTrue.png?size=50" width=50px> | Matheus de Paula | Product Owner | <a href="https://github.com/MrMatheTrue"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+| <img src="https://github.com/danieldanka.png?size=50" width=50px> | Daniel Natan | Desenvolvedor | <a href="https://github.com/danieldanka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+| <img src="https://github.com/joaosantos13.png?size=50" width=50px> | João Santos | Desenvolvedor | <a href="https://github.com/joaosantos13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|
+| <img src="https://github.com/LeonardoGracianoOliveira.png?size=50" width=50px> | Leonardo Graciano | Desenvolvedor | <a href="https://github.com/LeonardoGracianoOliveira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+| <img src="https://github.com/GlitchRez.png?size=50" width=50px> | Samuel rezende | Desenvolvedor | <a href="https://github.com/GlitchRez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+| <img src="https://github.com/brendabettini.png?size=50" width=50px> | Brenda Bettini | Desenvolvedor | <a href="https://github.com/brendabettini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+| <img src="https://github.com/ana-franca-01.png?size=50" width=50px> | Ana Letícia | Desenvolvedor | <a href="https://github.com/ana-franca-01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |
+
